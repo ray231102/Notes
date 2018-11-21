@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#f30b0b</color>
+    <color name="colorPrimaryDark">#f30b0b</color>
+    <color name="colorAccent">#000</color>
+    <color name="msg_no_notes">#000</color>
+    <color name="hint_enter_note">#89c3c3c3</color>
+    <color name="timestamp">#858585</color>
+    <color name="note_list_text">#232323</color>
+</resources>
